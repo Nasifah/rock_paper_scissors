@@ -2,6 +2,7 @@
 Rock-Paper-Scissors is a simple two-player game where players make figures in the direction of their opponent with one of their hands, to either represent a rock, a piece of paper, or a pair of scissors.
 
 How the game is played physically:
+
 A rock is represented by folding one's hand into a fist
 Paper is represented by opening the palm like the way you would extend it if you wanted to give someone a handshake
 Scissors is represented by extending the index and middle fingers like a "V" while the others remain in a fist
